@@ -107,12 +107,3 @@ python game2.py
 
 - [מצגת המשחק](https://www.youtube.com/watch?v=SWJ-TBnytzQ&ab_channel=%D7%94%D7%A7%D7%9C%D7%98%D7%95%D7%AA%D7%9E%D7%93%D7%A2%D7%99%D7%94%D7%9E%D7%97%D7%A9%D7%91)
 - [הצגת המשחק](https://www.youtube.com/watch?v=fgX6HWL9p5s&ab_channel=%D7%94%D7%A7%D7%9C%D7%98%D7%95%D7%AA%D7%9E%D7%93%D7%A2%D7%99%D7%94%D7%9E%D7%97%D7%A9%D7%91)
-
----
-
-### דגשים ל־git
-- מומלץ להוסיף קובץ .gitignore ולהחריג קבצים כמו game_data.json אם הוא גדול/נוצר אוטומטית.
-- שמרו על שמות קבצים באנגלית בלבד.
-- README זה תומך ב־RTL, אך ניתן להמירו לאנגלית במידת הצורך.
-
-
